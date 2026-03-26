@@ -2,6 +2,15 @@
 <h3 align="center">Senior Flutter Developer | Team Lead</h3>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Senior+Flutter+Developer;Team+Lead;Building+Real+Products" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedahemd99&color=blue" />
+</p>
+
+---
 
 ## 🚀 About Me
 - 🔥 4+ years building scalable Flutter apps (iOS, Android, Web, Desktop)
